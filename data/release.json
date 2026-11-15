@@ -1,0 +1,2460 @@
+{
+  "revision": "release-1",
+  "cutoff": "2026-11-14T23:59:59+08:00",
+  "tables": {
+    "sites": [
+      {
+        "site": "north",
+        "district": "d0"
+      },
+      {
+        "site": "east",
+        "district": "d0"
+      },
+      {
+        "site": "south",
+        "district": "d1"
+      },
+      {
+        "site": "west",
+        "district": "d1"
+      }
+    ],
+    "arrivals": [
+      {
+        "arrival_id": "a0",
+        "site": "north",
+        "at": "2026-11-10T08:39:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a1",
+        "site": "east",
+        "at": "2026-11-10T08:14:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a2",
+        "site": "south",
+        "at": "2026-11-10T08:17:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a3",
+        "site": "west",
+        "at": "2026-11-10T08:31:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a4",
+        "site": "north",
+        "at": "2026-11-10T09:06:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a5",
+        "site": "east",
+        "at": "2026-11-10T09:00:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a6",
+        "site": "south",
+        "at": "2026-11-10T09:12:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a7",
+        "site": "west",
+        "at": "2026-11-10T09:01:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a8",
+        "site": "north",
+        "at": "2026-11-10T10:14:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a9",
+        "site": "east",
+        "at": "2026-11-10T10:40:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a10",
+        "site": "south",
+        "at": "2026-11-10T10:32:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a11",
+        "site": "west",
+        "at": "2026-11-10T10:36:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a12",
+        "site": "north",
+        "at": "2026-11-10T11:24:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a13",
+        "site": "east",
+        "at": "2026-11-10T11:42:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a14",
+        "site": "south",
+        "at": "2026-11-10T11:57:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a15",
+        "site": "west",
+        "at": "2026-11-10T11:01:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a16",
+        "site": "north",
+        "at": "2026-11-10T12:38:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a17",
+        "site": "east",
+        "at": "2026-11-10T12:18:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a18",
+        "site": "south",
+        "at": "2026-11-10T12:01:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a19",
+        "site": "west",
+        "at": "2026-11-10T12:38:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a20",
+        "site": "north",
+        "at": "2026-11-10T13:52:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a21",
+        "site": "east",
+        "at": "2026-11-10T13:52:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a22",
+        "site": "south",
+        "at": "2026-11-10T13:32:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a23",
+        "site": "west",
+        "at": "2026-11-10T13:36:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a24",
+        "site": "north",
+        "at": "2026-11-10T14:22:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a25",
+        "site": "east",
+        "at": "2026-11-10T14:09:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a26",
+        "site": "south",
+        "at": "2026-11-10T14:21:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a27",
+        "site": "west",
+        "at": "2026-11-10T14:17:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a28",
+        "site": "north",
+        "at": "2026-11-10T15:25:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a29",
+        "site": "east",
+        "at": "2026-11-10T15:25:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a30",
+        "site": "south",
+        "at": "2026-11-10T15:47:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a31",
+        "site": "west",
+        "at": "2026-11-10T15:50:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a32",
+        "site": "north",
+        "at": "2026-11-10T16:16:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a33",
+        "site": "east",
+        "at": "2026-11-10T16:54:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a34",
+        "site": "south",
+        "at": "2026-11-10T16:04:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a35",
+        "site": "west",
+        "at": "2026-11-10T16:36:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a36",
+        "site": "north",
+        "at": "2026-11-10T17:32:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a37",
+        "site": "east",
+        "at": "2026-11-10T17:08:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a38",
+        "site": "south",
+        "at": "2026-11-10T17:40:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a39",
+        "site": "west",
+        "at": "2026-11-10T17:40:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a40",
+        "site": "north",
+        "at": "2026-11-10T18:10:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a41",
+        "site": "east",
+        "at": "2026-11-10T18:14:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a42",
+        "site": "south",
+        "at": "2026-11-10T18:53:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a43",
+        "site": "west",
+        "at": "2026-11-10T18:18:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a44",
+        "site": "north",
+        "at": "2026-11-10T19:31:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a45",
+        "site": "east",
+        "at": "2026-11-10T19:14:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a46",
+        "site": "south",
+        "at": "2026-11-10T19:29:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a47",
+        "site": "west",
+        "at": "2026-11-10T19:52:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a48",
+        "site": "north",
+        "at": "2026-11-10T20:09:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a49",
+        "site": "east",
+        "at": "2026-11-10T20:09:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a50",
+        "site": "south",
+        "at": "2026-11-10T20:52:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a51",
+        "site": "west",
+        "at": "2026-11-10T20:01:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a52",
+        "site": "north",
+        "at": "2026-11-10T21:02:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a53",
+        "site": "east",
+        "at": "2026-11-10T21:39:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a54",
+        "site": "south",
+        "at": "2026-11-10T21:12:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a55",
+        "site": "west",
+        "at": "2026-11-10T21:45:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a56",
+        "site": "north",
+        "at": "2026-11-10T08:23:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a57",
+        "site": "east",
+        "at": "2026-11-10T08:44:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a58",
+        "site": "south",
+        "at": "2026-11-10T08:23:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a59",
+        "site": "west",
+        "at": "2026-11-10T08:48:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a60",
+        "site": "north",
+        "at": "2026-11-10T09:45:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a61",
+        "site": "east",
+        "at": "2026-11-10T09:28:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a62",
+        "site": "south",
+        "at": "2026-11-10T09:53:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a63",
+        "site": "west",
+        "at": "2026-11-10T09:15:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a64",
+        "site": "north",
+        "at": "2026-11-10T10:50:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a65",
+        "site": "east",
+        "at": "2026-11-10T10:59:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a66",
+        "site": "south",
+        "at": "2026-11-10T10:39:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a67",
+        "site": "west",
+        "at": "2026-11-10T10:29:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a68",
+        "site": "north",
+        "at": "2026-11-10T11:32:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a69",
+        "site": "east",
+        "at": "2026-11-10T11:48:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a70",
+        "site": "south",
+        "at": "2026-11-10T11:20:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a71",
+        "site": "west",
+        "at": "2026-11-10T11:44:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a72",
+        "site": "north",
+        "at": "2026-11-10T12:23:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a73",
+        "site": "east",
+        "at": "2026-11-10T12:40:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a74",
+        "site": "south",
+        "at": "2026-11-10T12:34:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a75",
+        "site": "west",
+        "at": "2026-11-10T12:38:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a76",
+        "site": "north",
+        "at": "2026-11-10T13:28:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a77",
+        "site": "east",
+        "at": "2026-11-10T13:35:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a78",
+        "site": "south",
+        "at": "2026-11-10T13:41:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a79",
+        "site": "west",
+        "at": "2026-11-10T13:25:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a80",
+        "site": "north",
+        "at": "2026-11-11T14:25:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a81",
+        "site": "east",
+        "at": "2026-11-11T14:51:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a82",
+        "site": "south",
+        "at": "2026-11-11T14:09:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a83",
+        "site": "west",
+        "at": "2026-11-11T14:42:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a84",
+        "site": "north",
+        "at": "2026-11-11T15:41:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a85",
+        "site": "east",
+        "at": "2026-11-11T15:02:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a86",
+        "site": "south",
+        "at": "2026-11-11T15:55:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a87",
+        "site": "west",
+        "at": "2026-11-11T15:29:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a88",
+        "site": "north",
+        "at": "2026-11-11T16:31:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a89",
+        "site": "east",
+        "at": "2026-11-11T16:52:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a90",
+        "site": "south",
+        "at": "2026-11-11T16:32:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a91",
+        "site": "west",
+        "at": "2026-11-11T16:34:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a92",
+        "site": "north",
+        "at": "2026-11-11T17:08:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a93",
+        "site": "east",
+        "at": "2026-11-11T17:44:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a94",
+        "site": "south",
+        "at": "2026-11-11T17:29:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a95",
+        "site": "west",
+        "at": "2026-11-11T17:21:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a96",
+        "site": "north",
+        "at": "2026-11-11T18:33:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a97",
+        "site": "east",
+        "at": "2026-11-11T18:35:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a98",
+        "site": "south",
+        "at": "2026-11-11T18:00:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a99",
+        "site": "west",
+        "at": "2026-11-11T18:24:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a100",
+        "site": "north",
+        "at": "2026-11-11T19:40:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a101",
+        "site": "east",
+        "at": "2026-11-11T19:33:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a102",
+        "site": "south",
+        "at": "2026-11-11T19:38:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a103",
+        "site": "west",
+        "at": "2026-11-11T19:40:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a104",
+        "site": "north",
+        "at": "2026-11-11T20:47:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a105",
+        "site": "east",
+        "at": "2026-11-11T20:23:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a106",
+        "site": "south",
+        "at": "2026-11-11T20:27:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a107",
+        "site": "west",
+        "at": "2026-11-11T20:10:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a108",
+        "site": "north",
+        "at": "2026-11-11T21:42:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a109",
+        "site": "east",
+        "at": "2026-11-11T21:45:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a110",
+        "site": "south",
+        "at": "2026-11-11T21:22:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a111",
+        "site": "west",
+        "at": "2026-11-11T21:14:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a112",
+        "site": "north",
+        "at": "2026-11-11T08:08:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a113",
+        "site": "east",
+        "at": "2026-11-11T08:51:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a114",
+        "site": "south",
+        "at": "2026-11-11T08:22:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a115",
+        "site": "west",
+        "at": "2026-11-11T08:53:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a116",
+        "site": "north",
+        "at": "2026-11-11T09:01:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a117",
+        "site": "east",
+        "at": "2026-11-11T09:42:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a118",
+        "site": "south",
+        "at": "2026-11-11T09:00:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a119",
+        "site": "west",
+        "at": "2026-11-11T09:58:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a120",
+        "site": "north",
+        "at": "2026-11-11T10:47:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a121",
+        "site": "east",
+        "at": "2026-11-11T10:12:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a122",
+        "site": "south",
+        "at": "2026-11-11T10:37:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a123",
+        "site": "west",
+        "at": "2026-11-11T10:59:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a124",
+        "site": "north",
+        "at": "2026-11-11T11:44:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a125",
+        "site": "east",
+        "at": "2026-11-11T11:31:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a126",
+        "site": "south",
+        "at": "2026-11-11T11:05:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a127",
+        "site": "west",
+        "at": "2026-11-11T11:00:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a128",
+        "site": "north",
+        "at": "2026-11-11T12:26:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a129",
+        "site": "east",
+        "at": "2026-11-11T12:55:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a130",
+        "site": "south",
+        "at": "2026-11-11T12:49:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a131",
+        "site": "west",
+        "at": "2026-11-11T12:15:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a132",
+        "site": "north",
+        "at": "2026-11-11T13:16:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a133",
+        "site": "east",
+        "at": "2026-11-11T13:51:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a134",
+        "site": "south",
+        "at": "2026-11-11T13:32:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a135",
+        "site": "west",
+        "at": "2026-11-11T13:14:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a136",
+        "site": "north",
+        "at": "2026-11-11T14:15:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a137",
+        "site": "east",
+        "at": "2026-11-11T14:46:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a138",
+        "site": "south",
+        "at": "2026-11-11T14:13:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a139",
+        "site": "west",
+        "at": "2026-11-11T14:55:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a140",
+        "site": "north",
+        "at": "2026-11-11T15:46:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a141",
+        "site": "east",
+        "at": "2026-11-11T15:06:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a142",
+        "site": "south",
+        "at": "2026-11-11T15:09:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a143",
+        "site": "west",
+        "at": "2026-11-11T15:20:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a144",
+        "site": "north",
+        "at": "2026-11-11T16:17:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a145",
+        "site": "east",
+        "at": "2026-11-11T16:27:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a146",
+        "site": "south",
+        "at": "2026-11-11T16:02:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a147",
+        "site": "west",
+        "at": "2026-11-11T16:13:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a148",
+        "site": "north",
+        "at": "2026-11-11T17:22:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a149",
+        "site": "east",
+        "at": "2026-11-11T17:03:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a150",
+        "site": "south",
+        "at": "2026-11-11T17:04:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a151",
+        "site": "west",
+        "at": "2026-11-11T17:06:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a152",
+        "site": "north",
+        "at": "2026-11-11T18:57:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a153",
+        "site": "east",
+        "at": "2026-11-11T18:14:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a154",
+        "site": "south",
+        "at": "2026-11-11T18:16:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a155",
+        "site": "west",
+        "at": "2026-11-11T18:47:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a156",
+        "site": "north",
+        "at": "2026-11-11T19:49:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a157",
+        "site": "east",
+        "at": "2026-11-11T19:40:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a158",
+        "site": "south",
+        "at": "2026-11-11T19:53:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a159",
+        "site": "west",
+        "at": "2026-11-11T19:49:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a160",
+        "site": "north",
+        "at": "2026-11-12T20:43:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a161",
+        "site": "east",
+        "at": "2026-11-12T20:04:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a162",
+        "site": "south",
+        "at": "2026-11-12T20:47:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a164",
+        "site": "north",
+        "at": "2026-11-12T21:38:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a165",
+        "site": "east",
+        "at": "2026-11-12T21:30:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a166",
+        "site": "south",
+        "at": "2026-11-12T21:45:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a168",
+        "site": "north",
+        "at": "2026-11-12T08:59:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a169",
+        "site": "east",
+        "at": "2026-11-12T08:15:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a170",
+        "site": "south",
+        "at": "2026-11-12T08:42:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a172",
+        "site": "north",
+        "at": "2026-11-12T09:21:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a173",
+        "site": "east",
+        "at": "2026-11-12T09:57:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a174",
+        "site": "south",
+        "at": "2026-11-12T09:19:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a176",
+        "site": "north",
+        "at": "2026-11-12T10:25:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a177",
+        "site": "east",
+        "at": "2026-11-12T10:10:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a178",
+        "site": "south",
+        "at": "2026-11-12T10:03:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a180",
+        "site": "north",
+        "at": "2026-11-12T11:32:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a181",
+        "site": "east",
+        "at": "2026-11-12T11:40:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a182",
+        "site": "south",
+        "at": "2026-11-12T11:34:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a184",
+        "site": "north",
+        "at": "2026-11-12T12:04:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a185",
+        "site": "east",
+        "at": "2026-11-12T12:26:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a186",
+        "site": "south",
+        "at": "2026-11-12T12:50:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a188",
+        "site": "north",
+        "at": "2026-11-12T13:34:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a189",
+        "site": "east",
+        "at": "2026-11-12T13:10:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a190",
+        "site": "south",
+        "at": "2026-11-12T13:19:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a192",
+        "site": "north",
+        "at": "2026-11-12T14:57:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a193",
+        "site": "east",
+        "at": "2026-11-12T14:27:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a194",
+        "site": "south",
+        "at": "2026-11-12T14:16:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a196",
+        "site": "north",
+        "at": "2026-11-12T15:20:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a197",
+        "site": "east",
+        "at": "2026-11-12T15:40:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a198",
+        "site": "south",
+        "at": "2026-11-12T15:43:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a200",
+        "site": "north",
+        "at": "2026-11-12T16:05:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a201",
+        "site": "east",
+        "at": "2026-11-12T16:12:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a202",
+        "site": "south",
+        "at": "2026-11-12T16:18:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a204",
+        "site": "north",
+        "at": "2026-11-12T17:29:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a205",
+        "site": "east",
+        "at": "2026-11-12T17:48:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a206",
+        "site": "south",
+        "at": "2026-11-12T17:18:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a208",
+        "site": "north",
+        "at": "2026-11-12T18:19:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a209",
+        "site": "east",
+        "at": "2026-11-12T18:51:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a210",
+        "site": "south",
+        "at": "2026-11-12T18:23:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a212",
+        "site": "north",
+        "at": "2026-11-12T19:38:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a213",
+        "site": "east",
+        "at": "2026-11-12T19:00:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a214",
+        "site": "south",
+        "at": "2026-11-12T19:52:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a216",
+        "site": "north",
+        "at": "2026-11-12T20:14:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a217",
+        "site": "east",
+        "at": "2026-11-12T20:18:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a218",
+        "site": "south",
+        "at": "2026-11-12T20:30:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a220",
+        "site": "north",
+        "at": "2026-11-12T21:20:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a221",
+        "site": "east",
+        "at": "2026-11-12T21:27:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a222",
+        "site": "south",
+        "at": "2026-11-12T21:29:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a224",
+        "site": "north",
+        "at": "2026-11-12T08:52:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a225",
+        "site": "east",
+        "at": "2026-11-12T08:23:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a226",
+        "site": "south",
+        "at": "2026-11-12T08:13:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a228",
+        "site": "north",
+        "at": "2026-11-12T09:24:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a229",
+        "site": "east",
+        "at": "2026-11-12T09:56:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a230",
+        "site": "south",
+        "at": "2026-11-12T09:23:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a232",
+        "site": "north",
+        "at": "2026-11-12T10:28:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a233",
+        "site": "east",
+        "at": "2026-11-12T10:34:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a234",
+        "site": "south",
+        "at": "2026-11-12T10:29:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a236",
+        "site": "north",
+        "at": "2026-11-12T11:37:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a237",
+        "site": "east",
+        "at": "2026-11-12T11:33:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a238",
+        "site": "south",
+        "at": "2026-11-12T11:47:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a240",
+        "site": "north",
+        "at": "2026-11-13T12:16:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a241",
+        "site": "east",
+        "at": "2026-11-13T12:38:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a242",
+        "site": "south",
+        "at": "2026-11-13T12:22:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a243",
+        "site": "west",
+        "at": "2026-11-13T12:06:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a244",
+        "site": "north",
+        "at": "2026-11-13T13:58:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a245",
+        "site": "east",
+        "at": "2026-11-13T13:39:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a246",
+        "site": "south",
+        "at": "2026-11-13T13:49:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a247",
+        "site": "west",
+        "at": "2026-11-13T13:10:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a248",
+        "site": "north",
+        "at": "2026-11-13T14:36:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a249",
+        "site": "east",
+        "at": "2026-11-13T14:57:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a250",
+        "site": "south",
+        "at": "2026-11-13T14:49:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a251",
+        "site": "west",
+        "at": "2026-11-13T14:03:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a252",
+        "site": "north",
+        "at": "2026-11-13T15:52:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a253",
+        "site": "east",
+        "at": "2026-11-13T15:08:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a254",
+        "site": "south",
+        "at": "2026-11-13T15:03:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a255",
+        "site": "west",
+        "at": "2026-11-13T15:42:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a256",
+        "site": "north",
+        "at": "2026-11-13T16:01:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a257",
+        "site": "east",
+        "at": "2026-11-13T16:23:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a258",
+        "site": "south",
+        "at": "2026-11-13T16:38:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a259",
+        "site": "west",
+        "at": "2026-11-13T16:07:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a260",
+        "site": "north",
+        "at": "2026-11-13T17:03:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a261",
+        "site": "east",
+        "at": "2026-11-13T17:11:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a262",
+        "site": "south",
+        "at": "2026-11-13T17:18:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a263",
+        "site": "west",
+        "at": "2026-11-13T17:45:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a264",
+        "site": "north",
+        "at": "2026-11-13T18:40:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a265",
+        "site": "east",
+        "at": "2026-11-13T18:40:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a266",
+        "site": "south",
+        "at": "2026-11-13T18:12:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a267",
+        "site": "west",
+        "at": "2026-11-13T18:55:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a268",
+        "site": "north",
+        "at": "2026-11-13T19:42:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a269",
+        "site": "east",
+        "at": "2026-11-13T19:54:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a270",
+        "site": "south",
+        "at": "2026-11-13T19:36:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a271",
+        "site": "west",
+        "at": "2026-11-13T19:27:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a272",
+        "site": "north",
+        "at": "2026-11-13T20:51:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a273",
+        "site": "east",
+        "at": "2026-11-13T20:39:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a274",
+        "site": "south",
+        "at": "2026-11-13T20:11:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a275",
+        "site": "west",
+        "at": "2026-11-13T20:53:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a276",
+        "site": "north",
+        "at": "2026-11-13T21:21:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a277",
+        "site": "east",
+        "at": "2026-11-13T21:48:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a278",
+        "site": "south",
+        "at": "2026-11-13T21:16:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a279",
+        "site": "west",
+        "at": "2026-11-13T21:28:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a280",
+        "site": "north",
+        "at": "2026-11-13T08:47:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a281",
+        "site": "east",
+        "at": "2026-11-13T08:56:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a282",
+        "site": "south",
+        "at": "2026-11-13T08:19:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a283",
+        "site": "west",
+        "at": "2026-11-13T08:33:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a284",
+        "site": "north",
+        "at": "2026-11-13T09:08:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a285",
+        "site": "east",
+        "at": "2026-11-13T09:42:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a286",
+        "site": "south",
+        "at": "2026-11-13T09:08:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a287",
+        "site": "west",
+        "at": "2026-11-13T09:20:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a288",
+        "site": "north",
+        "at": "2026-11-13T10:12:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a289",
+        "site": "east",
+        "at": "2026-11-13T10:12:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a290",
+        "site": "south",
+        "at": "2026-11-13T10:08:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a291",
+        "site": "west",
+        "at": "2026-11-13T10:11:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a292",
+        "site": "north",
+        "at": "2026-11-13T11:49:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a293",
+        "site": "east",
+        "at": "2026-11-13T11:06:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a294",
+        "site": "south",
+        "at": "2026-11-13T11:51:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a295",
+        "site": "west",
+        "at": "2026-11-13T11:31:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a296",
+        "site": "north",
+        "at": "2026-11-13T12:37:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a297",
+        "site": "east",
+        "at": "2026-11-13T12:51:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a298",
+        "site": "south",
+        "at": "2026-11-13T12:30:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a299",
+        "site": "west",
+        "at": "2026-11-13T12:54:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a300",
+        "site": "north",
+        "at": "2026-11-13T13:42:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a301",
+        "site": "east",
+        "at": "2026-11-13T13:17:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a302",
+        "site": "south",
+        "at": "2026-11-13T13:10:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a303",
+        "site": "west",
+        "at": "2026-11-13T13:17:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a304",
+        "site": "north",
+        "at": "2026-11-13T14:13:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a305",
+        "site": "east",
+        "at": "2026-11-13T14:54:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a306",
+        "site": "south",
+        "at": "2026-11-13T14:30:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a307",
+        "site": "west",
+        "at": "2026-11-13T14:32:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a308",
+        "site": "north",
+        "at": "2026-11-13T15:57:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a309",
+        "site": "east",
+        "at": "2026-11-13T15:46:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a310",
+        "site": "south",
+        "at": "2026-11-13T15:03:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a311",
+        "site": "west",
+        "at": "2026-11-13T15:37:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a312",
+        "site": "north",
+        "at": "2026-11-13T16:33:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a313",
+        "site": "east",
+        "at": "2026-11-13T16:53:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a314",
+        "site": "south",
+        "at": "2026-11-13T16:59:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a315",
+        "site": "west",
+        "at": "2026-11-13T16:55:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a316",
+        "site": "north",
+        "at": "2026-11-13T17:44:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a317",
+        "site": "east",
+        "at": "2026-11-13T17:05:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a318",
+        "site": "south",
+        "at": "2026-11-13T17:34:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a319",
+        "site": "west",
+        "at": "2026-11-13T17:35:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a320",
+        "site": "north",
+        "at": "2026-11-14T18:29:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a321",
+        "site": "east",
+        "at": "2026-11-14T18:28:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a322",
+        "site": "south",
+        "at": "2026-11-14T18:37:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a323",
+        "site": "west",
+        "at": "2026-11-14T18:59:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a324",
+        "site": "north",
+        "at": "2026-11-14T19:59:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a325",
+        "site": "east",
+        "at": "2026-11-14T19:45:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a326",
+        "site": "south",
+        "at": "2026-11-14T19:49:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a327",
+        "site": "west",
+        "at": "2026-11-14T19:09:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a328",
+        "site": "north",
+        "at": "2026-11-14T20:22:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a329",
+        "site": "east",
+        "at": "2026-11-14T20:17:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a330",
+        "site": "south",
+        "at": "2026-11-14T20:37:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a331",
+        "site": "west",
+        "at": "2026-11-14T20:01:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a332",
+        "site": "north",
+        "at": "2026-11-14T21:41:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a333",
+        "site": "east",
+        "at": "2026-11-14T21:20:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a334",
+        "site": "south",
+        "at": "2026-11-14T21:58:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a335",
+        "site": "west",
+        "at": "2026-11-14T21:25:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a336",
+        "site": "north",
+        "at": "2026-11-14T08:57:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a337",
+        "site": "east",
+        "at": "2026-11-14T08:43:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a338",
+        "site": "south",
+        "at": "2026-11-14T08:24:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a339",
+        "site": "west",
+        "at": "2026-11-14T08:34:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a340",
+        "site": "north",
+        "at": "2026-11-14T09:10:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a341",
+        "site": "east",
+        "at": "2026-11-14T09:19:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a342",
+        "site": "south",
+        "at": "2026-11-14T09:43:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a343",
+        "site": "west",
+        "at": "2026-11-14T09:20:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a344",
+        "site": "north",
+        "at": "2026-11-14T10:03:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a345",
+        "site": "east",
+        "at": "2026-11-14T10:28:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a346",
+        "site": "south",
+        "at": "2026-11-14T10:29:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a347",
+        "site": "west",
+        "at": "2026-11-14T10:51:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a348",
+        "site": "north",
+        "at": "2026-11-14T11:12:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a349",
+        "site": "east",
+        "at": "2026-11-14T11:38:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a350",
+        "site": "south",
+        "at": "2026-11-14T11:09:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a351",
+        "site": "west",
+        "at": "2026-11-14T11:46:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a352",
+        "site": "north",
+        "at": "2026-11-14T12:15:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a353",
+        "site": "east",
+        "at": "2026-11-14T12:29:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a354",
+        "site": "south",
+        "at": "2026-11-14T12:53:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a355",
+        "site": "west",
+        "at": "2026-11-14T12:52:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a356",
+        "site": "north",
+        "at": "2026-11-14T13:04:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a357",
+        "site": "east",
+        "at": "2026-11-14T13:31:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a358",
+        "site": "south",
+        "at": "2026-11-14T13:58:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a359",
+        "site": "west",
+        "at": "2026-11-14T13:12:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a360",
+        "site": "north",
+        "at": "2026-11-14T14:18:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a361",
+        "site": "east",
+        "at": "2026-11-14T14:58:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a362",
+        "site": "south",
+        "at": "2026-11-14T14:13:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a363",
+        "site": "west",
+        "at": "2026-11-14T14:13:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a364",
+        "site": "north",
+        "at": "2026-11-14T15:22:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a365",
+        "site": "east",
+        "at": "2026-11-14T15:52:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a366",
+        "site": "south",
+        "at": "2026-11-14T15:08:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a367",
+        "site": "west",
+        "at": "2026-11-14T15:00:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a368",
+        "site": "north",
+        "at": "2026-11-14T16:12:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a369",
+        "site": "east",
+        "at": "2026-11-14T16:11:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a370",
+        "site": "south",
+        "at": "2026-11-14T16:46:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a371",
+        "site": "west",
+        "at": "2026-11-14T16:08:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a372",
+        "site": "north",
+        "at": "2026-11-14T17:39:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a373",
+        "site": "east",
+        "at": "2026-11-14T17:57:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a374",
+        "site": "south",
+        "at": "2026-11-14T17:35:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a375",
+        "site": "west",
+        "at": "2026-11-14T17:32:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a376",
+        "site": "north",
+        "at": "2026-11-14T18:02:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a377",
+        "site": "east",
+        "at": "2026-11-14T18:34:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a378",
+        "site": "south",
+        "at": "2026-11-14T18:34:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a379",
+        "site": "west",
+        "at": "2026-11-14T18:48:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a380",
+        "site": "north",
+        "at": "2026-11-14T19:04:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a381",
+        "site": "east",
+        "at": "2026-11-14T19:15:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a382",
+        "site": "south",
+        "at": "2026-11-14T19:32:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a383",
+        "site": "west",
+        "at": "2026-11-14T19:53:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a384",
+        "site": "north",
+        "at": "2026-11-14T20:18:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a385",
+        "site": "east",
+        "at": "2026-11-14T20:21:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a386",
+        "site": "south",
+        "at": "2026-11-14T20:29:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a387",
+        "site": "west",
+        "at": "2026-11-14T20:04:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a388",
+        "site": "north",
+        "at": "2026-11-14T21:39:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a389",
+        "site": "east",
+        "at": "2026-11-14T21:43:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a390",
+        "site": "south",
+        "at": "2026-11-14T21:16:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a391",
+        "site": "west",
+        "at": "2026-11-14T21:14:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a392",
+        "site": "north",
+        "at": "2026-11-14T08:26:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a393",
+        "site": "east",
+        "at": "2026-11-14T08:33:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a394",
+        "site": "south",
+        "at": "2026-11-14T08:26:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a395",
+        "site": "west",
+        "at": "2026-11-14T08:22:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a396",
+        "site": "north",
+        "at": "2026-11-14T09:35:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a397",
+        "site": "east",
+        "at": "2026-11-14T09:42:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a398",
+        "site": "south",
+        "at": "2026-11-14T09:15:00+08:00",
+        "precision_seconds": 60
+      },
+      {
+        "arrival_id": "a399",
+        "site": "west",
+        "at": "2026-11-14T09:41:00+08:00",
+        "precision_seconds": 60
+      }
+    ],
+    "exposure": [
+      {
+        "site": "north",
+        "start": "2026-11-10T08:00:00+08:00",
+        "end": "2026-11-10T22:00:00+08:00",
+        "observed": true
+      },
+      {
+        "site": "north",
+        "start": "2026-11-11T08:00:00+08:00",
+        "end": "2026-11-11T22:00:00+08:00",
+        "observed": true
+      },
+      {
+        "site": "north",
+        "start": "2026-11-12T08:00:00+08:00",
+        "end": "2026-11-12T22:00:00+08:00",
+        "observed": true
+      },
+      {
+        "site": "north",
+        "start": "2026-11-13T08:00:00+08:00",
+        "end": "2026-11-13T22:00:00+08:00",
+        "observed": true
+      },
+      {
+        "site": "north",
+        "start": "2026-11-14T08:00:00+08:00",
+        "end": "2026-11-14T22:00:00+08:00",
+        "observed": true
+      },
+      {
+        "site": "east",
+        "start": "2026-11-10T08:00:00+08:00",
+        "end": "2026-11-10T22:00:00+08:00",
+        "observed": true
+      },
+      {
+        "site": "east",
+        "start": "2026-11-11T08:00:00+08:00",
+        "end": "2026-11-11T22:00:00+08:00",
+        "observed": true
+      },
+      {
+        "site": "east",
+        "start": "2026-11-12T08:00:00+08:00",
+        "end": "2026-11-12T22:00:00+08:00",
+        "observed": true
+      },
+      {
+        "site": "east",
+        "start": "2026-11-13T08:00:00+08:00",
+        "end": "2026-11-13T22:00:00+08:00",
+        "observed": true
+      },
+      {
+        "site": "east",
+        "start": "2026-11-14T08:00:00+08:00",
+        "end": "2026-11-14T22:00:00+08:00",
+        "observed": true
+      },
+      {
+        "site": "south",
+        "start": "2026-11-10T08:00:00+08:00",
+        "end": "2026-11-10T22:00:00+08:00",
+        "observed": true
+      },
+      {
+        "site": "south",
+        "start": "2026-11-11T08:00:00+08:00",
+        "end": "2026-11-11T22:00:00+08:00",
+        "observed": true
+      },
+      {
+        "site": "south",
+        "start": "2026-11-12T08:00:00+08:00",
+        "end": "2026-11-12T22:00:00+08:00",
+        "observed": true
+      },
+      {
+        "site": "south",
+        "start": "2026-11-13T08:00:00+08:00",
+        "end": "2026-11-13T22:00:00+08:00",
+        "observed": true
+      },
+      {
+        "site": "south",
+        "start": "2026-11-14T08:00:00+08:00",
+        "end": "2026-11-14T22:00:00+08:00",
+        "observed": true
+      },
+      {
+        "site": "west",
+        "start": "2026-11-10T08:00:00+08:00",
+        "end": "2026-11-10T22:00:00+08:00",
+        "observed": true
+      },
+      {
+        "site": "west",
+        "start": "2026-11-11T08:00:00+08:00",
+        "end": "2026-11-11T22:00:00+08:00",
+        "observed": true
+      },
+      {
+        "site": "west",
+        "start": "2026-11-12T08:00:00+08:00",
+        "end": "2026-11-12T22:00:00+08:00",
+        "observed": false
+      },
+      {
+        "site": "west",
+        "start": "2026-11-13T08:00:00+08:00",
+        "end": "2026-11-13T22:00:00+08:00",
+        "observed": true
+      },
+      {
+        "site": "west",
+        "start": "2026-11-14T08:00:00+08:00",
+        "end": "2026-11-14T22:00:00+08:00",
+        "observed": true
+      }
+    ],
+    "events": [
+      {
+        "event_id": "e0",
+        "site": "north",
+        "start": "2026-11-12T18:00:00+08:00",
+        "end": "2026-11-12T20:00:00+08:00",
+        "category": "show"
+      },
+      {
+        "event_id": "e1",
+        "site": "east",
+        "start": "2026-11-12T18:00:00+08:00",
+        "end": "2026-11-12T20:00:00+08:00",
+        "category": "show"
+      }
+    ]
+  },
+  "settings": {
+    "maximum_refusal_probability": 0.05,
+    "balance_tolerance": 20,
+    "minimum_same_edges": 4,
+    "registration": {
+      "primary_outcome": "awareness_per_eligible",
+      "spillover_exposure": "neighbor_treated_fraction",
+      "maximum_missing_fraction": 0.2
+    },
+    "primary_tables": [
+      "arrivals",
+      "exposure",
+      "events",
+      "sites"
+    ]
+  }
+}
